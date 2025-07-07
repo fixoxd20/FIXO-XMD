@@ -25,7 +25,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=00FF00&width=435&lines=RELES+DAY+COMMING-+SOON" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=00FF00&width=435&lines=RELES+DAY+2025-+JULY+08" alt="Typing SVG" />
 
 
  <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
@@ -52,7 +52,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-[![FORK FIXO XMD-V1](https://img.shields.io/badge/FORK%20-FIXO%20XMD%20V1-white)](https://github.com/Oshan123466/FIXO-XMD-/fork)
+[![FORK FIXO XMD-V1](https://img.shields.io/badge/FORK%20-FIXO%20XMD%20V1-white)](https://github.com/Oshan123466/FIXO-XMD/fork)
 
 
 <p align="center">
