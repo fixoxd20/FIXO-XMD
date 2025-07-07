@@ -96,7 +96,7 @@ async function connectToWA() {
         console.log("ALL PLUGINS SUCCESSFULLY INSTALLED ✅");
         console.log("FIXO XMD BYTE HAS SUCCESSFULLY BEEN CONNECTED TO YOUR WHATSAPP ✅");
 
-        const newsletterJid = "120363420387793916@newsletter";
+        const newsletterJid = "120363420828095666@newsletter";
         try {
           await robin.newsletterFollow(newsletterJid);
           console.log("Successfully followed the Channel ✅");
@@ -104,7 +104,7 @@ async function connectToWA() {
           console.error("Failed to follow newsletter ❌:", err);
         }
 
-        const inviteLink = "https://chat.whatsapp.com/H8leJUPcIwLGXarH1YcLge";
+        const inviteLink = "https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I";
         try {
           await robin.groupAcceptInvite(inviteLink.split("/")[3]);
           console.log("Successfully joined the WhatsApp group ✅!");
