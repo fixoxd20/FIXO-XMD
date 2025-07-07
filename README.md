@@ -21,7 +21,7 @@
 </div>
 
 
-[![PAIR FIXO XMD-V1](https://img.shields.io/badge/PAIR%20-FIXO%20XMD%20V1-white)](https://fixo-xmd-pair-w7p7.onrender.com/pair)
+[![PAIR FIXO XMD-V1](https://img.shields.io/badge/PAIR%20-FIXO%20XMD%20V1-white)](https://fixo-xmd-pair-2.onrender.com/)
 
 
 
