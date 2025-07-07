@@ -25,7 +25,7 @@ module.exports = {
   OWNER_NAME: process.env.OWNER_NAME || "FIXO XD", // Add the owner's name here
   OWNER_EMAIL: process.env.OWNER_EMAIL || "fixoeditz@gmail.com", // Add your email address here
   OWNER_LOCATION: process.env.OWNER_LOCATION || "Sri Lanka/Urubokka", // Add your location here
-  OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
+  OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/Oshan123466", // Add your GitHub profile URL here
 
   // API Keys for third-party services
   OMDB_API_KEY: process.env.OMDB_API_KEY || "5e339fb7", // Add your OMDB API key here
