@@ -19,7 +19,7 @@ if (dotenvPath) {
 // Application Configuration Object
 module.exports = {
   // Session and Owner Information
-  SESSION_ID: process.env.SESSION_ID || "FIXO-XMD~v8BR3BjA#0a8sNgmMNpwIgxY8eeQW_l3miyB8D43nDwgE7hRMWoA", // Add your session ID here
+  SESSION_ID: process.env.SESSION_ID || "FIXO-XMD~BqdCHCZS#gqBL9pz5iJrcAQy4l0yzO34fjreeIhH0Wh8G5mcmqYM", // Add your session ID here
   SUDO: process.env.SUDO || "94711767300", // Add your admin/sudo number here
   OWNER_NUM: process.env.OWNER_NUM || "94711767300", // Add the owner's number here
   OWNER_NAME: process.env.OWNER_NAME || "FIXO XD", // Add the owner's name here
@@ -40,7 +40,7 @@ module.exports = {
   STATUS_MESSAGE: process.env.STATUS_MESSAGE || "🚀 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙁𝙄𝙓𝙊-𝙓𝙈𝘿 ", // Customize the bot's status message
 
   // Auto Features (toggle features on/off)
-  AUTO_REACT: process.env.AUTO_REACT || "true", // Enable/disable auto reaction (true/false)
+  AUTO_REACT: process.env.AUTO_REACT || "false", // Enable/disable auto reaction (true/false)
   PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
   AUTO_VOICE: process.env.AUTO_VOICE || "true", // Enable/disable auto voice messages (true/false)
   AUTO_STICKER: process.env.AUTO_STICKER || "true", // Enable/disable auto sticker rea (true/false)
